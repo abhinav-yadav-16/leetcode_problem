@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0013-roman-to-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
