@@ -7,7 +7,7 @@ class Solution {
            rev =  rev*10 + rem;
            x = x/10;
         }  
-        System.out.println(rev);    
+        // System.out.println(rev);    
         if(rev == m){
             return true;
         }
