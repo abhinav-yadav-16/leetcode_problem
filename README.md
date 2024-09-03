@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0043-multiply-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0043-multiply-strings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Binary Search
 |  |
 | ------- |
