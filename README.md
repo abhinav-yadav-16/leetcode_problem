@@ -52,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0050-powx-n) |
+## Tree
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0687-longest-univalue-path) |
+## Depth-First Search
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0687-longest-univalue-path) |
+## Binary Tree
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
