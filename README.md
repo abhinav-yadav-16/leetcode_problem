@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0326-power-of-three) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0278-first-bad-version) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
