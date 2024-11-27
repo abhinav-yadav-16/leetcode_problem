@@ -76,15 +76,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0113-path-sum-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0113-path-sum-ii) |
 | [0687-longest-univalue-path](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0687-longest-univalue-path) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0113-path-sum-ii) |
 | [0687-longest-univalue-path](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0687-longest-univalue-path) |
 ## Binary Tree
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0113-path-sum-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0113-path-sum-ii) |
 | [0687-longest-univalue-path](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0687-longest-univalue-path) |
 ## Dynamic Programming
 |  |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
