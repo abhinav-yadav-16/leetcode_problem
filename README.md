@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/1013-fibonacci-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0264-ugly-number-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0013-roman-to-integer) |
+| [0264-ugly-number-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0264-ugly-number-ii) |
 ## String
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0062-unique-paths) |
+| [0264-ugly-number-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0264-ugly-number-ii) |
 | [1013-fibonacci-number](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
