@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0200-number-of-islands) |
 | [0218-the-skyline-problem](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0218-the-skyline-problem) |
 | [0399-evaluate-division](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0399-evaluate-division) |
+| [0554-brick-wall](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0554-brick-wall) |
 | [0658-find-k-closest-elements](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0658-find-k-closest-elements) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0013-roman-to-integer) |
 | [0264-ugly-number-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
+| [0554-brick-wall](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0554-brick-wall) |
 ## String
 |  |
 | ------- |
