@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0066-plus-one) |
+| [0218-the-skyline-problem](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0218-the-skyline-problem) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0295-find-median-from-data-stream) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -170,4 +172,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0295-find-median-from-data-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0218-the-skyline-problem) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
