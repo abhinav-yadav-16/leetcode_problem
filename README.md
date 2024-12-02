@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0066-plus-one) |
 | [0218-the-skyline-problem](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0218-the-skyline-problem) |
 | [0658-find-k-closest-elements](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0658-find-k-closest-elements) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0264-ugly-number-ii) |
 | [1013-fibonacci-number](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/1013-fibonacci-number) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0658-find-k-closest-elements) |
 ## Interactive
@@ -161,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0042-trapping-rain-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0042-trapping-rain-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
