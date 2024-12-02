@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0066-plus-one) |
 | [0218-the-skyline-problem](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0218-the-skyline-problem) |
+| [0658-find-k-closest-elements](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0658-find-k-closest-elements) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0295-find-median-from-data-stream) |
+| [0658-find-k-closest-elements](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0658-find-k-closest-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0278-first-bad-version) |
+| [0658-find-k-closest-elements](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0658-find-k-closest-elements) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0027-remove-element) |
 | [0295-find-median-from-data-stream](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0295-find-median-from-data-stream) |
+| [0658-find-k-closest-elements](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0658-find-k-closest-elements) |
 ## Interactive
 |  |
 | ------- |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0295-find-median-from-data-stream) |
+| [0658-find-k-closest-elements](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0658-find-k-closest-elements) |
 ## Data Stream
 |  |
 | ------- |
@@ -192,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0218-the-skyline-problem) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
