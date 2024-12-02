@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0687-longest-univalue-path) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0687-longest-univalue-path) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0450-delete-node-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
