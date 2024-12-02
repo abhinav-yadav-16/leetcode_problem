@@ -55,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0013-roman-to-integer) |
 | [0264-ugly-number-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0264-ugly-number-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0043-multiply-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Binary Search
 |  |
@@ -201,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0658-find-k-closest-elements) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
