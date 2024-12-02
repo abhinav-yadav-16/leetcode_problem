@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0437-path-sum-iii) |
 | [0687-longest-univalue-path](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0687-longest-univalue-path) |
+| [0801-is-graph-bipartite](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0801-is-graph-bipartite](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0801-is-graph-bipartite) |
 ## Backtracking
 |  |
 | ------- |
@@ -216,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
