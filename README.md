@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0043-multiply-strings) |
+| [0242-valid-anagram](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0399-evaluate-division](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0451-sort-characters-by-frequency) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0451-sort-characters-by-frequency) |
