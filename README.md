@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0399-evaluate-division](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0399-evaluate-division) |
+| [0496-next-greater-element-i](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0496-next-greater-element-i) |
 | [0554-brick-wall](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0554-brick-wall) |
 | [0658-find-k-closest-elements](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0739-daily-temperatures) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0496-next-greater-element-i) |
 | [0554-brick-wall](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0554-brick-wall) |
 ## String
 |  |
@@ -192,12 +194,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
