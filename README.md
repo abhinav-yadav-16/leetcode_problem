@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0200-number-of-islands) |
 | [0218-the-skyline-problem](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0347-top-k-frequent-elements) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0326-power-of-three) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0658-find-k-closest-elements) |
