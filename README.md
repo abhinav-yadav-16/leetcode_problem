@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0200-number-of-islands) |
 | [0218-the-skyline-problem](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0218-the-skyline-problem) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0342-power-of-four) |
