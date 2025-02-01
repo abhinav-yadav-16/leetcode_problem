@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0200-number-of-islands) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0295-find-median-from-data-stream) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0295-find-median-from-data-stream) |
