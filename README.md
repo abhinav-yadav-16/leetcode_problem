@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3429-special-array-i](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
