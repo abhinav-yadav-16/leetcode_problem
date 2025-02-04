@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhinav-yadav-16/leetcode_problem/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
